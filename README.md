@@ -15,13 +15,6 @@ Includes sample data and working queries
 
 ER diagram illustrates table relationships clearly
 
-sql-student-management/
-│── schema.sql              # Database & tables
-│── data.sql                # Sample data inserts
-│── queries.sql             # CRUD & advanced queries
-│── procedures_triggers.sql # Stored procedures & triggers
-│── er-diagram.png          # Visual representation of database
-
 🖼 Visuals / Screenshots:
 
 <img width="503" height="832" alt="Image" src="https://github.com/user-attachments/assets/c844ef66-588a-42c2-bfdf-959b25dca597" />
