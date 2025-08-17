@@ -1,5 +1,6 @@
-🎓 Student Management System (A Simple SQL Project)
-This Student Management System demonstrates how to manage student records efficiently using MySQL.
+#🎓 Student Management System (A Simple SQL Project)
+
+#This Student Management System demonstrates how to manage student records efficiently using MySQL.
 It’s a practical project for learning database design, SQL queries, and automation with stored procedures & triggers.
 
 Key highlights:
